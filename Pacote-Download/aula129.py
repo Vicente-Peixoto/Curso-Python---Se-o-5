@@ -1,3 +1,6 @@
+print('Olá Mundo!")
+
+
 # @staticmethod (métodos estáticos) são inúteis em Python =)
 # Métodos estáticos são métodos que estão dentro da
 # classe, mas não tem acesso ao self nem ao cls.
